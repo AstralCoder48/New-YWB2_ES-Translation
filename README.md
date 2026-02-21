@@ -1,17 +1,14 @@
 <div align="center">
     <img src="./images/logo.png" alt="Yo-kai Watch Busters 2 Logo" width="256"/>
     <br>
-    <a href="https://github.com/New-YWB2-ES-Translation/New-YWB2_ES-Translation/stargazers">
+    <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/stargazers">
         <img src="https://img.shields.io/github/stars/New-YWB2-ES-Translation/New-YWB2_ES-Translation?style=for-the-badge&logo=github&color=gold" alt="Estrellas"/>
     </a>
-    <a href="https://github.com/New-YWB2-ES-Translation/New-YWB2_ES-Translation/releases">
-        <img src="https://img.shields.io/github/v/release/New-YWB2-ES-Translation/New-YWB2_ES-Translation?style=for-the-badge&logo=github&color=blue" alt="Última versión"/>
+    <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases">
+        <img src="https://img.shields.io/github/v/release/AstralCoder48/New-YWB2_ES-Translation?style=for-the-badge&logo=github&color=blue" alt="Última versión"/>
     </a>
-    <a href="https://github.com/New-YWB2-ES-Translation/New-YWB2_ES-Translation/releases">
-        <img src="https://img.shields.io/github/downloads/New-YWB2-ES-Translation/New-YWB2_ES-Translation/total?style=for-the-badge&logo=github&color=green" alt="Descargas"/>
-    </a>
-    <a href="https://github.com/New-YWB2-ES-Translation/New-YWB2_ES-Translation/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/New-YWB2-ES-Translation/New-YWB2_ES-Translation?style=for-the-badge&logo=github&color=red" alt="Licencia"/>
+    <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases">
+        <img src="https://img.shields.io/github/downloads/AstralCoder48/New-YWB2_ES-Translation/total?style=for-the-badge&logo=github&color=green" alt="Descargas"/>
     </a>
 </div>
 
@@ -24,10 +21,10 @@ El trabajo se basa en el increíble parche al inglés creado por la comunidad, a
 # Importante
 🚧 **Este proyecto se encuentra actualmente en desarrollo.** 🚧
 
-Si encuentras algún error de traducción, texto sin traducir, o cualquier problema durante la instalación, por favor, abre un [**issue**](https://github.com/New-YWB2-ES-Translation/New-YWB2_ES-Translation/issues) para que podamos solucionarlo lo antes posible.
+Si encuentras algún error de traducción, texto sin traducir, o cualquier problema durante la instalación, por favor, abre un [**issue**](https://github.com/AstralCoder48/New-YWB2_ES-Translation/issues) para que podamos solucionarlo lo antes posible.
 
 # Instalación
-Descarga el archivo de la última versión desde la sección [***Releases***](https://github.com/New-YWB2-ES-Translation/New-YWB2_ES-Translation/releases). El método de instalación varía dependiendo del emulador o si utilizas consola.
+Descarga el archivo de la última versión desde la sección [***Releases***](https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases). El método de instalación varía dependiendo del emulador o si utilizas consola.
 
 ### Citra
 1.  Asegúrate de tener la ROM asignada en el emulador.
