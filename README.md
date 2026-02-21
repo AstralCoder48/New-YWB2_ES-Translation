@@ -1,15 +1,8 @@
 <div align="center">
-    <img src="./images/logo.png" alt="Yo-kai Watch Busters 2 Logo" width="256"/>
-    <br>
-    <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/stargazers">
-        <img src="https://img.shields.io/github/stars/New-YWB2-ES-Translation/New-YWB2_ES-Translation?style=for-the-badge&logo=github&color=gold" alt="Estrellas"/>
-    </a>
-    <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases">
-        <img src="https://img.shields.io/github/v/release/AstralCoder48/New-YWB2_ES-Translation?style=for-the-badge&logo=github&color=blue" alt="Última versión"/>
-    </a>
-    <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases">
-        <img src="https://img.shields.io/github/downloads/AstralCoder48/New-YWB2_ES-Translation/total?style=for-the-badge&logo=github&color=green" alt="Descargas"/>
-    </a>
+    <img src="./images/logo.png" alt="Yo-kai Watch Busters 2 Logo"/>
+    <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/stargazers"><img src="https://img.shields.io/github/stars/AstralCoder48/New-YWB2_ES-Translation"/></a>
+    <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases"><img src="https://img.shields.io/github/v/release/AstralCoder48/New-YWB2_ES-Translation"/></a>
+    <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases"><img src="https://img.shields.io/github/downloads/AstralCoder48/New-YWB2_ES-Translation/total"/></a>
 </div>
 
 # Yo-kai Watch Busters 2: Traducción al Español (Nueva Versión)
@@ -44,6 +37,6 @@ Este proyecto no sería posible sin el esfuerzo y la dedicación de la comunidad
 
 Si tienes cualquier duda o simplemente quieres pasar un rato agradable, ¡te esperamos!
 
-> [![Discord](https://img.shields.io/discord/846980324034347008?label=Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/project-make-a-dream-846980324034347008)
+> [![Discord](https://img.shields.io/discord/846980324034347008?label=Discord&logo=discord&color=5865F2)](https://discord.gg/project-make-a-dream-846980324034347008)
 
-<img src="./images/discordmakeadream.png" alt="Make a Dream Banner" width="320"/>
+<img src="./images/discordmakeadream.png" alt="Make a Dream Banner"/>
