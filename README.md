@@ -24,7 +24,9 @@ Descarga el archivo de la última versión desde la sección [***Releases***](ht
 2.  File -> Install CIA y selecciona el archivo de la traducción.
 
 ### Nintendo 3DS y 2DS:
-1.  ...
+1.  Asegúrate de tener el juego base instalado
+2.  Mete la CIA en una carpeta de tu 3DS
+3.  Instalala mediante FBI
 
 # Créditos
 Este proyecto no sería posible sin el esfuerzo y la dedicación de la comunidad. Un agradecimiento especial a:
