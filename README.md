@@ -1,5 +1,8 @@
 <div align="center">
-    <img src="./images/logo.png" alt="Yo-kai Watch Busters 2 Logo"/>
+    <img src="./images/logo_magnum.png" alt="Yo-kai Watch Busters 2 Magnum Logo"/>
+    <img src="./images/logo_sword.png" alt="Yo-kai Watch Busters 2 Sword Logo"/>
+</div>
+<div align="center">
     <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/stargazers"><img src="https://img.shields.io/github/stars/AstralCoder48/New-YWB2_ES-Translation"/></a>
     <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases"><img src="https://img.shields.io/github/v/release/AstralCoder48/New-YWB2_ES-Translation"/></a>
     <a href="https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases"><img src="https://img.shields.io/github/downloads/AstralCoder48/New-YWB2_ES-Translation/total"/></a>
