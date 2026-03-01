@@ -19,6 +19,11 @@ El trabajo se basa en el increíble parche al inglés creado por la comunidad, a
 
 Si encuentras algún error de traducción, texto sin traducir, o cualquier problema durante la instalación, por favor, abre un [**issue**](https://github.com/AstralCoder48/New-YWB2_ES-Translation/issues) para que podamos solucionarlo lo antes posible.
 
+# Requisitos
+
+- Tener instalado (ya sea en 3DS o en emulador) Blasters 2 Sword o Magnum.
+- 🔴 Si tienes la versión 1.5 instalada, debes **desinstalarla antes de instalar la traducción**. La traducción es una modificación de la Update 1.5.
+
 # Instalación
 Descarga el archivo de la última versión desde la sección [***Releases***](https://github.com/AstralCoder48/New-YWB2_ES-Translation/releases). El método de instalación varía dependiendo del emulador o si utilizas consola.
 
